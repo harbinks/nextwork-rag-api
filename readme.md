@@ -38,7 +38,7 @@ rag-fastapi/
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Create and activate a virtual environment
+1️⃣ Create and activate a virtual environment
 ```bash
 python -m venv venv
 # Windows
